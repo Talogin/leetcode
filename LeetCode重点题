@@ -328,8 +328,12 @@
 439. Ternary Expression Parser
       stack解法没有想出来
       
+442(**)好题. Find All Duplicates in an Array
+      算是cyclic swapping这一类的题
+            
 448. Find All Numbers Disappeared in an Array
       方法一开始比较不容易想      
+      
       
 482. License Key Formatting
       一定要记住这道题一定用最后reverse的那种写法，不然memory会超
